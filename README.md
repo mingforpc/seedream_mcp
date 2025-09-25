@@ -39,6 +39,8 @@ uv export --format requirements.txt --output-file requirements.txt
 
 ### 3. 配置
 
+`ARK_API_KEY` 可以从火山方舟控制台(https://www.volcengine.com/product/ark)获取。
+
 设置豆包 API 密钥环境变量：
 
 ```bash
